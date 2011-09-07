@@ -1,6 +1,7 @@
 MANIFEST.in
 setup.py
 ZenPacks/__init__.py
+ZenPacks/__init__.pyc
 ZenPacks.community.HPBladeChassis.egg-info/PKG-INFO
 ZenPacks.community.HPBladeChassis.egg-info/SOURCES.txt
 ZenPacks.community.HPBladeChassis.egg-info/dependency_links.txt
@@ -10,6 +11,7 @@ ZenPacks.community.HPBladeChassis.egg-info/not-zip-safe
 ZenPacks.community.HPBladeChassis.egg-info/top_level.txt
 ZenPacks.community.HPBladeChassis.egg-info/zenpack_info
 ZenPacks/community/__init__.py
+ZenPacks/community/__init__.pyc
 ZenPacks/community/HPBladeChassis/BladeChassis.py
 ZenPacks/community/HPBladeChassis/BladeChassisFan.py
 ZenPacks/community/HPBladeChassis/BladeChassisInterconnect.py
@@ -33,6 +35,7 @@ ZenPacks/community/HPBladeChassis/parsers/HPBladeChassis/BladeStatus.py
 ZenPacks/community/HPBladeChassis/parsers/HPBladeChassis/BladeTemps.py
 ZenPacks/community/HPBladeChassis/parsers/HPBladeChassis/EnclosureStatus.py
 ZenPacks/community/HPBladeChassis/parsers/HPBladeChassis/__init__.py
+ZenPacks/community/HPBladeChassis/reports/Device Reports/HP Blade Server Build Details.rpt
 ZenPacks/community/HPBladeChassis/reports/Device Reports/HP Blade Server List.rpt
 ZenPacks/community/HPBladeChassis/skins/ZenPacks.community.HPBladeChassis/bladechassisData.pt
 ZenPacks/community/HPBladeChassis/skins/ZenPacks.community.HPBladeChassis/bladeserverData.pt
